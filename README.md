@@ -1,5 +1,4 @@
 # XLPE-CABLE-PROJECT
-M.TECH PROJECT
 The main reason that leads to failure of cable insulation is degradation due to age and
 partial discharge. However, replacing and maintaining underground cable circuits
 throughout the excavation phase is very expensive. The severity of the condition of the
