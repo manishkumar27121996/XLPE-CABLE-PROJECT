@@ -18,3 +18,4 @@ hyperparameter tuning provided the best results with accuracy of 98% and only 11
 were predicted wrong out of 500 data. ANN model gave an accuracy of 97.2%. A
 comparison has been made between different Models which shows that Random Forest
 produces the best results.
+![image](https://github.com/mannu123456/XLPE-CABLE-PROJECT/assets/82048889/f682246a-7970-459a-8311-04ccbe1b1b17)
